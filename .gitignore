@@ -15,7 +15,7 @@
 
 # next.js
 /.next/
-/out/
+# /out/ is intentionally tracked so the static build can be downloaded from the repo
 
 # production
 /build

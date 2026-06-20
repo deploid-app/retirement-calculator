@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[21563,["/_next/static/chunks/256whwvw_y7jv.js","/_next/static/chunks/30ii-diu4tb27.js"],"Calculator"]
+3:I[97367,["/_next/static/chunks/256whwvw_y7jv.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-12","children":[["$","header",null,{"className":"mb-8 space-y-2","children":[["$","p",null,{"className":"text-sm font-medium text-muted-foreground","children":"Retirement Funding · FNA"}],["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Retirement Calculator"}],["$","p",null,{"className":"max-w-2xl text-muted-foreground","children":"Estimate the capital you'll need for retirement, see what your assets and EPF are projected to provide, and find out how much to set aside each month to close any gap."}]]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/30ii-diu4tb27.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"f7v9FrKpH1N7Ukah974AZ"}
+5:null
