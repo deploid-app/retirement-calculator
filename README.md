@@ -1,5 +1,7 @@
 # Retirement Calculator
 
+**Live demo:** https://deploid-app.github.io/retirement-calculator/
+
 A Next.js retirement-funding calculator that tells you whether you're on track
 for retirement and, if not, how much to set aside each month to close the gap.
 The financial model is a faithful port of the **CFE Retirement Calculator**
